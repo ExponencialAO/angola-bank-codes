@@ -74,10 +74,10 @@ for bank in data['banks']:
 
 ## Live Exchange Rates
 
-For live exchange rates from these banks, visit **[cambio.ao](https://cambio.ao)** — compares buy/sell rates across all Angolan commercial banks, updated hourly.
+For live exchange rates and conversão de moeda with real Angolan bank rates, visit **[cambio.ao](https://cambio.ao)**.
 
 - [Bank rate comparison](https://cambio.ao/cambio-do-dia) — side-by-side rates for USD, EUR, ZAR
-- [Currency converter](https://cambio.ao/conversor-de-moeda) — convert with real Angolan bank rates
+- [Conversão de moeda](https://cambio.ao/conversor-de-moeda) — converter valores entre moedas com taxas reais dos bancos angolanos
 
 ## Related
 
