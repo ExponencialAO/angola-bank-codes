@@ -1,0 +1,241 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-03-20",
+  "country": "AO",
+  "country_name": "Angola",
+  "currency": "AOA",
+  "currency_name": "Kwanza",
+  "source": "Compiled from BNA, ABANC, and public bank websites",
+  "banks": [
+    {
+      "code": "BAI",
+      "name": "Banco Angolano de Investimentos",
+      "short_name": "BAI",
+      "website": "https://bancobai.ao",
+      "swift_bic": "BAIAAOLU",
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BCGA",
+      "name": "Banco Caixa Geral Angola",
+      "short_name": "BCGA",
+      "website": "https://www.bcga.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BCA",
+      "name": "Banco Comercial Angolano",
+      "short_name": "BCA",
+      "website": "https://www.bca.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BCH",
+      "name": "Banco Comercial do Huambo",
+      "short_name": "BCH",
+      "website": "https://www.bch.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Huambo",
+      "active": true
+    },
+    {
+      "code": "BCS",
+      "name": "BCS - Banco de Credito do Sul, S.A.",
+      "short_name": "BCS",
+      "website": "https://www.bcs.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BDA",
+      "name": "Banco de Desenvolvimento de Angola",
+      "short_name": "BDA",
+      "website": "https://www.bda.ao",
+      "swift_bic": null,
+      "type": "development",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BE",
+      "name": "Banco Economico",
+      "short_name": "BE",
+      "website": "https://www.bancoeconomico.ao",
+      "swift_bic": "BESCAOLU",
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BFA",
+      "name": "Banco de Fomento Angola",
+      "short_name": "BFA",
+      "website": "https://www.bfa.ao",
+      "swift_bic": "BFMXAOLU",
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BIC",
+      "name": "Banco BIC",
+      "short_name": "BIC",
+      "website": "https://www.bancobic.ao",
+      "swift_bic": "BICXAOLU",
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BIR",
+      "name": "Banco de Investimento Rural",
+      "short_name": "BIR",
+      "website": "https://www.bir.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BMA",
+      "name": "Banco Millennium Atlantico",
+      "short_name": "BMA",
+      "website": "https://www.atlantico.ao",
+      "swift_bic": "ATLAAOLU",
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BMF",
+      "name": "Banco BAI Micro Financas",
+      "short_name": "BMF",
+      "website": "https://www.bmf.ao",
+      "swift_bic": null,
+      "type": "microfinance",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BNI",
+      "name": "Banco de Negocios Internacional",
+      "short_name": "BNI",
+      "website": "https://www.bni.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BPC",
+      "name": "Banco de Poupanca e Credito",
+      "short_name": "BPC",
+      "website": "https://www.bpc.ao",
+      "swift_bic": "BPCXAOLU",
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BPG",
+      "name": "Banco Postal",
+      "short_name": "BPG",
+      "website": "https://www.bancopostal.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BTN",
+      "name": "Banco Terra Nova",
+      "short_name": "BTN",
+      "website": "https://www.btn.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "BV",
+      "name": "Banco Valor",
+      "short_name": "BV",
+      "website": "https://www.bancovalor.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "FNB",
+      "name": "First National Bank Angola",
+      "short_name": "FNB",
+      "website": "https://www.fnb.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "KEVE",
+      "name": "Banco Keve",
+      "short_name": "KEVE",
+      "website": "https://www.bancokeve.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "SBA",
+      "name": "Standard Bank Angola",
+      "short_name": "SBA",
+      "website": "https://www.standardbank.co.ao",
+      "swift_bic": "SBICAOLU",
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "SOL",
+      "name": "Banco Sol",
+      "short_name": "SOL",
+      "website": "https://www.bancosol.ao",
+      "swift_bic": "BSOLAOLU",
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "VTB",
+      "name": "VTB Africa",
+      "short_name": "VTB",
+      "website": "https://www.vtbafrica.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    },
+    {
+      "code": "YETU",
+      "name": "Banco Yetu",
+      "short_name": "YETU",
+      "website": "https://www.bancoyetu.ao",
+      "swift_bic": null,
+      "type": "commercial",
+      "headquarters": "Luanda",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "angola-bank-codes",
+  "version": "1.0.0",
+  "description": "Open dataset of Angolan commercial banks — codes, names, SWIFT/BIC, websites",
+  "main": "banks.json",
+  "homepage": "https://cambio.ao",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExponencialAO/angola-bank-codes"
+  },
+  "keywords": ["angola", "banks", "swift", "bic", "fintech", "aoa", "kwanza"],
+  "author": "Exponencial (https://exponencial.ao)",
+  "license": "MIT"
+}
